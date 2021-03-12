@@ -8,7 +8,7 @@ dodałem też duszki za pomocą koła, odpowiednio go przyciąłem za pomocą 3 
 oczu oraz źrenice
 uzylem tez wypelnienia za pomocą RGB z racji tego że nie mogłem znaleźć brązowego koloru
 wstawiłem też logo Pac-mana które znajduje sie w folderze "images" 
-dla estetyki dodałem też oko dla naszego potwora
+dla estetyki dodałem też oko dla naszego potwora, powiliłem naszego duszka, zmieniłem dla nich pozycje oraz kolor
 
 na sam koniec dodałem life oraz score jednak to było za mało więc dodałem również muzykę która odtwarza nam się po skompilowaniu
 
