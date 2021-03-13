@@ -211,7 +211,6 @@ class PacMan extends JFrame {
 
     public static void main(String[] args) {
 
-      //  playMusic("Music////Look at my horse song! (HD).wav");
 
         EventQueue.invokeLater(new Runnable() {
             @Override
