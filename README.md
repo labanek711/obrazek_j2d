@@ -1,5 +1,8 @@
 # obrazek_j2d
+Paweł Łabanowski grupa L2
+
 poniższy projekt  został skonstruowany na potrzeby zaliczenia
+Kod został napisanie w języku Java.
 
 Na początku zacząłem od wstawienia pac-man'a poiższą komendą
  g2d.fillArc(20, 300, 310, 300, 30, 300);
@@ -13,4 +16,5 @@ dla estetyki dodałem też oko dla naszego potwora, powiliłem naszego duszka, z
 na sam koniec dodałem life oraz score jednak to było za mało więc dodałem również muzykę która odtwarza nam się po skompilowaniu
 
 do wszystkich komend w moim projekcie zamieściłem komentarze żeby osoba która nie miała styczności z java2d rozumiała mniejwiecej 
-co i gdzie zostało stworzone
+co i gdzie zostało stworzone.
+
