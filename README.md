@@ -18,5 +18,5 @@ do wszystkich komend w moim projekcie zamieściłem komentarze żeby osoba któr
 co i gdzie zostało stworzone.
 
 # obrazek_j2d
-![obrazek_j2d](pacmanpic.png)
+![obrazek_j2d](pacmanpic.PNG)
 ![obrazek_j2d](http://raw.github.com/labanek711/obrazek_j2d/blob/main/images/pacmanpic.png "screen")
