@@ -17,6 +17,5 @@ na sam koniec dodałem life oraz score jednak to było za mało więc dodałem r
 do wszystkich komend w moim projekcie zamieściłem komentarze żeby osoba która nie miała styczności z java2d rozumiała mniejwiecej ,
 co i gdzie zostało stworzone.
 
-# obrazek_j2d
+# gotowy obrazek
 ![obrazek_j2d](pacmanpic.PNG)
-![obrazek_j2d](http://raw.github.com/labanek711/obrazek_j2d/blob/main/images/pacmanpic.png "screen")
